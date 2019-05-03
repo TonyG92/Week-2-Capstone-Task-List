@@ -1,0 +1,7 @@
+C:\Users\conqu\source\repos\Week2CapstoneTaskList\Week2CapstoneTaskList\bin\Debug\Week2CapstoneTaskList.exe.config
+C:\Users\conqu\source\repos\Week2CapstoneTaskList\Week2CapstoneTaskList\bin\Debug\Week2CapstoneTaskList.exe
+C:\Users\conqu\source\repos\Week2CapstoneTaskList\Week2CapstoneTaskList\bin\Debug\Week2CapstoneTaskList.pdb
+C:\Users\conqu\source\repos\Week2CapstoneTaskList\Week2CapstoneTaskList\obj\Debug\Week2CapstoneTaskList.csprojAssemblyReference.cache
+C:\Users\conqu\source\repos\Week2CapstoneTaskList\Week2CapstoneTaskList\obj\Debug\Week2CapstoneTaskList.csproj.CoreCompileInputs.cache
+C:\Users\conqu\source\repos\Week2CapstoneTaskList\Week2CapstoneTaskList\obj\Debug\Week2CapstoneTaskList.exe
+C:\Users\conqu\source\repos\Week2CapstoneTaskList\Week2CapstoneTaskList\obj\Debug\Week2CapstoneTaskList.pdb
