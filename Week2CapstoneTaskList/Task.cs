@@ -23,15 +23,5 @@ namespace Week2CapstoneTaskList
             status = false;
         }
 
-
-
-
-
-
-
-
-
-
-
     }
 }
